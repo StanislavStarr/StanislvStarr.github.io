@@ -1,6 +1,6 @@
 body {
   background: fixed;
-  background: url(/Week1/Day3/core-css-layout-site/Image/background.png);
+  background: url(./Image/background.png);
   overflow: auto;
   background-attachment: fixed;
 }
